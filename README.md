@@ -2,7 +2,6 @@
 
 An interactive web-based learning system designed to help students understand and visualize the **Naive Bayes algorithm** step-by-step.
 
----
 
 ## 🚀 Features
 
@@ -26,7 +25,6 @@ An interactive web-based learning system designed to help students understand an
 - 🎨 Clean UI with animations
 - 📌 Sidebar progress tracking
 
----
 
 ## 🧠 Technologies Used
 
@@ -36,7 +34,3 @@ An interactive web-based learning system designed to help students understand an
 - Chart.js
 - PapaParse
 - MathJax
-
----
-
-## 📂 Project Structure
